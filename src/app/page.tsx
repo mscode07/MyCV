@@ -9,7 +9,7 @@ import { Skills } from "./components/Skills";
 import { Header } from "./components/Header";
 
 export const metadata: Metadata = {
-  title: `${RESUME_DATA.name} - Resume`,
+  title: `mscode07`,
   description: RESUME_DATA.about,
   openGraph: {
     title: `${RESUME_DATA.name} - Resume`,
@@ -58,7 +58,7 @@ function getCommandMenuLinks() {
 export default function ResumePage() {
   return (
     <main
-      className="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-11 md:p-16"
+      className="container relative mx-auto scroll-my-12 overflow-auto p-4 md:p-16 print:p-11"
       id="main-content"
     >
       <div className="sr-only">
