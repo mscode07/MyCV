@@ -5,8 +5,7 @@ import { startServerAndCreateNextHandler } from "@as-integrations/next";
 import { ApolloServerPluginLandingPageLocalDefault } from "@apollo/server/plugin/landingPage/default";
 import { MeResolver } from "../../apollo/resolvers";
 import { buildSchema } from "type-graphql";
-import { NextRequest } from "next/server";
-export const runtime = 'edge';
+import { NextRequest } from "next/server"; 
 
 
 const schema = await buildSchema({
