@@ -1,4 +1,5 @@
-![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2)
+<img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/7d569bd1-53a3-407b-bfa8-46179b6e73f9" />
+
 
 # Minimalist CV [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBartoszJarocki%2Fcv)
 
