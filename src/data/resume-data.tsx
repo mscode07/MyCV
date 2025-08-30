@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   avatarUrl: "https://github.com/mscode07.png",
   personalWebsiteUrl: "https://mscodee.com",
   contact: {
-    email: "mscode7777@gmail.com",
+    email: "msabhithakur7777@gmail.com",
     tel: "+91 9034919796",
     social: [
       {
