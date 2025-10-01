@@ -207,6 +207,17 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "CodeINN ",
+      techStack: ["TypeScript", "React", "Docker", "Supabase/PostgreSQL"],
+      description:
+        "CodeINN is an innovative AI-powered web development tool designed to transform user ideas into stunning, production-ready websites in real-time.",
+      logo: "",
+      link: {
+        label: "monito.dev",
+        href: "https://codeinn.mscodee.com",
+      },
+    },
+    {
       title: "Project 𝕏 ",
       techStack: ["TypeScript", "Next.js", "Docker", "PostgreSQL"],
       description:
@@ -217,17 +228,7 @@ export const RESUME_DATA = {
         href: "https://github.com/mscode07/ProjectX",
       },
     },
-    {
-      title: "CodeINN ",
-      techStack: ["TypeScript", "React", "Docker", "Supabase/PostgreSQL"],
-      description:
-        "CodeINN is an innovative AI-powered web development tool designed to transform user ideas into stunning, production-ready websites in real-time.",
-      logo: "",
-      link: {
-        label: "monito.dev",
-        href: "https://github.com/mscode07/ProjectX",
-      },
-    },
+    
     // {
     //   title: "Consultly",
     //   techStack: [
